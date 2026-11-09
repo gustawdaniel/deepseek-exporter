@@ -1,0 +1,113 @@
+{
+  "target": "deepseek-exporter",
+  "repo": "gustawdaniel/deepseek-exporter",
+  "files_count": 21,
+  "total_size_bytes": 192000,
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 18,
+      "sha256": "40844c6faf1617e23f5be8c299558d682b7d85cce054884b86ca1d1d5d7b10f1"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "size": 1794,
+      "sha256": "e5bb671e2c220f3409dd82c30f49255eba3d1596142011e1adc5d23ec083d350"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1067,
+      "sha256": "f6055f2f8b0f93a89d59e6d5c8e48904775d66041c2bfeb2865795e18f570036"
+    },
+    {
+      "path": "README.md",
+      "size": 5351,
+      "sha256": "12a51ba5430cedb41d7078624a02edf5b6d159693a7bf2d121f9de459acb3928"
+    },
+    {
+      "path": "SECURITY.md",
+      "size": 863,
+      "sha256": "518f69d89ff25f7cdcfbaed937df7ead83ce5970739b443977958d18321e589f"
+    },
+    {
+      "path": "background.js",
+      "size": 1594,
+      "sha256": "7cb5194582ed8abc9c954e0ddc72e20ab7a5e602f0371b7f3628ac58dd9999d0"
+    },
+    {
+      "path": "browse.html",
+      "size": 13953,
+      "sha256": "9857865da97453742d2101396c4bfca13c72224176985c1fc4a8aac3cc054830"
+    },
+    {
+      "path": "browse.js",
+      "size": 19803,
+      "sha256": "89a572573e30e96a30cccaa990fbd4d123dd68fb2076e0e9d705a5e6a65da42b"
+    },
+    {
+      "path": "build.py",
+      "size": 3673,
+      "sha256": "ca5f6222dfe5d8e233b7b20e055c8bb5a0132b7a56853d94dc56130550a41273"
+    },
+    {
+      "path": "content.css",
+      "size": 450,
+      "sha256": "9d28017372fccdf98f5b398bd68ead4569bf2f7c3ff3e26180e274f2d1eb255c"
+    },
+    {
+      "path": "content.js",
+      "size": 10364,
+      "sha256": "789f6f78d333e075112c9051b8b1734a5d83d8a3b1d078972e421f011919c95a"
+    },
+    {
+      "path": "icon.svg",
+      "size": 9318,
+      "sha256": "affcfc0951d73bb052650d64f5bb50f81f36edbed7b17ccef6e9ef760a450471"
+    },
+    {
+      "path": "icon128.png",
+      "size": 5130,
+      "sha256": "b0f09bb8fa232875beb7b6b861bfd5e846cc2d09eb16707caad439d996bf60bd"
+    },
+    {
+      "path": "icon16.png",
+      "size": 677,
+      "sha256": "d59ef79423dfb3d2537c8e51ba538fdace53ec98559124573ac0f37cfcb45022"
+    },
+    {
+      "path": "icon48.png",
+      "size": 2098,
+      "sha256": "48245fad823be2c15430819d38774fdb1d56ee85aa3ae05fbaa61ac9b2769d52"
+    },
+    {
+      "path": "jszip.min.js",
+      "size": 97630,
+      "sha256": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e"
+    },
+    {
+      "path": "manifest.json",
+      "size": 1135,
+      "sha256": "8804aaf854b7c3e1ab721b29e2361ded0ae3f6a0231ce12a4ed96dfcf0d2e13d"
+    },
+    {
+      "path": "popup-theme.js",
+      "size": 1763,
+      "sha256": "d0a7cf36bfad4bbc5fc2108c1032ccd35a5245aad89eca31ba6188d5090fad00"
+    },
+    {
+      "path": "popup.html",
+      "size": 4965,
+      "sha256": "a8d8a4abf06673a9b76774d1cc70add469a1911121121ac8900dcb2866eec96f"
+    },
+    {
+      "path": "popup.js",
+      "size": 5323,
+      "sha256": "cb2f69f5bac837e643616670a093d72f327a737f33928b4013d9325fe68c3670"
+    },
+    {
+      "path": "utils.js",
+      "size": 5031,
+      "sha256": "d9ff37799c89a187b9b600ce2c3117210c6f7d678a2d45e88ed24930ee1cf6cf"
+    }
+  ]
+}
